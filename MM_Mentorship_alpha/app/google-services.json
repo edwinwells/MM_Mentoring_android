@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "879232732854",
-    "firebase_url": "https://mm-mentoring-app.firebaseio.com",
-    "project_id": "mm-mentoring-app",
-    "storage_bucket": "mm-mentoring-app.appspot.com"
+    "project_number": "376944194806",
+    "firebase_url": "https://mmmentoring-1493261427437.firebaseio.com",
+    "project_id": "mmmentoring-1493261427437",
+    "storage_bucket": "mmmentoring-1493261427437.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:879232732854:android:dfef2252a5c4a82b",
+        "mobilesdk_app_id": "1:376944194806:android:dfef2252a5c4a82b",
         "android_client_info": {
           "package_name": "com.example.root.mm_mentorship_alpha"
         }
       },
       "oauth_client": [
         {
-          "client_id": "879232732854-rpa8qciib7o684oubf9rugq7oj8uq48s.apps.googleusercontent.com",
+          "client_id": "376944194806-at941up1ls9gm1al2b40c827q9r8kro4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAmy9UwX6sIdbavFlSUpJs5T7-3mWR8g4c"
+          "current_key": "AIzaSyAZIuFzbMMo7ET1gDjIPdmnRUWTL9-YJtk"
         }
       ],
       "services": {

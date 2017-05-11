@@ -1,3 +1,5 @@
+package com.example.root.mm_mentorship_alpha;
+
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
@@ -20,8 +22,12 @@ public class MyFirebaseInstanceIdService  extends FirebaseInstanceIdService {
         // manage this apps subscriptions on the server side, send the
         // Instance ID token to your app server.
         sendRegistrationToServer(refreshedToken);
+
     }
 
-    private void sendRegistrationToServer(String refreshedToken) {
+    public void sendRegistrationToServer(String refreshedToken) {
+
+        // Log and toast
+        Log.d(TAG, "Refreshed token: " + refreshedToken);
     }
 }
